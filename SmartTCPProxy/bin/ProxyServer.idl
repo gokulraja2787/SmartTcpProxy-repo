@@ -1,0 +1,13 @@
+module org {
+	module gokapp { 
+		module proxy { 
+			module server {
+				module omg {
+					interface ProxyServer {
+						oneway void  startup();
+					};
+				};
+			};
+		};
+	};
+};
